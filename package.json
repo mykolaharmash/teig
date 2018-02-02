@@ -13,6 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hyntax": "^1.0.3"
+    "hyntax": "^1.0.4"
   }
 }
